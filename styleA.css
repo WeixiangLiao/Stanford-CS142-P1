@@ -3,4 +3,10 @@ div{
     width: 100px;
     background-color: yellow;
     border-top: 1px solid black;
+    text-align: center;
+    position: relative;
+    margin:auto;
+    font-size: 40px;
+    font-family: Tahoma;
 }
+
