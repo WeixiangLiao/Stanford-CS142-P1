@@ -10,3 +10,7 @@ div{
     font-family: Tahoma;
 }
 
+body{
+    display: flex;
+    flex-direction: column;
+}
