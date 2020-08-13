@@ -1,0 +1,17 @@
+div{
+    width: 100px;
+    height: 150px;
+    background-color: #eeeff2;
+    border-left: 10px dotted #D0D0FF;
+    font-size: 40px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    position: absolute;
+    left: 10px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+#first{
+    position: absolute;
+    left: 300px;
+}
